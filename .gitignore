@@ -1,0 +1,45 @@
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignorar arquivos e diretórios do usuário
+Desktop.ini
+Thumbs.db
+.DS_Store
+
+# Ignorar diretórios comuns
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Microsoft/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Ignorar diretórios e arquivos específicos do usuário
+NTUSER.DAT*
+ntuser.dat.LOG*
+ntuser.ini
+.jupyter/
+.ipynb_checkpoints/
+.cache/
+.dotnet/
+.ipython/
+.lesshst
+.matplotlib/
+.vscode/
+IntelGraphicsProfiles/
+inittk.ini
+inst.ini
+log.txt
+nuuid.ini
+useruid.ini
+vmlogs/
